@@ -1,0 +1,14 @@
+﻿//InstrumentApp Configuration
+//Initial Build
+{
+    "configuration": {
+        "server": "192.168.1.46",
+        "window": "window",
+        "turnandslip": 1,
+        "layoutadjust":1
+    },
+    "position": [
+        {"rpm": { "x":0, "y": 0, "scale":"0.55"} },
+        {"turnandslip": { "x":0, "y": 0, "scale":"0.85"} }
+    ]
+}
